@@ -1,4 +1,4 @@
-# Complete-Experiment-on-algorithms-in-NLP-
+# Complete experiment on the efficiency of different NLP algorithms
 
 ### Objective and Scope
 
